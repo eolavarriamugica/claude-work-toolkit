@@ -1,0 +1,15 @@
+{
+  "name": "plain-writing",
+  "version": "0.1.0",
+  "description": "Two writing skills: de-ai-writer removes AI writing tells and simplifies; ste-simplifier rewrites text with Simplified Technical English rules, in any language.",
+  "author": {
+    "name": "claude-work-toolkit contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "plain language",
+    "simplify",
+    "editing"
+  ]
+}

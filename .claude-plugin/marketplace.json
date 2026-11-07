@@ -1,0 +1,14 @@
+{
+  "name": "claude-work-toolkit",
+  "description": "Small, independent Claude plugins: plain writing, Excel financial models and a Gmail contacts list. Install only what you need.",
+  "owner": {
+    "name": "claude-work-toolkit"
+  },
+  "plugins": [
+    {
+      "name": "plain-writing",
+      "source": "./plugins/plain-writing",
+      "description": "Rewrite text so it reads like a person wrote it, and simplify it to plain, short sentences in any language."
+    }
+  ]
+}
