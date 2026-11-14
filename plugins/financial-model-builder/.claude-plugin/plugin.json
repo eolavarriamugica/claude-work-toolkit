@@ -1,0 +1,16 @@
+{
+  "name": "financial-model-builder",
+  "version": "0.1.0",
+  "description": "Builds professional Excel financial models with structured inputs, formula-driven outputs, colour coding, schedules and scenarios, checked for formula errors.",
+  "author": {
+    "name": "claude-work-toolkit contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "excel",
+    "financial model",
+    "spreadsheet",
+    "loan",
+    "breakeven"
+  ]
+}

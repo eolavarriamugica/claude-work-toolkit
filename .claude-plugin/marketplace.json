@@ -9,6 +9,11 @@
       "name": "plain-writing",
       "source": "./plugins/plain-writing",
       "description": "Rewrite text so it reads like a person wrote it, and simplify it to plain, short sentences in any language."
+    },
+    {
+      "name": "financial-model-builder",
+      "source": "./plugins/financial-model-builder",
+      "description": "Build clean Excel financial models (loans, breakeven, cost and scenario models) with zero formula errors."
     }
   ]
 }
