@@ -11,6 +11,11 @@
       "description": "Rewrite text so it reads like a person wrote it, and simplify it to plain, short sentences in any language."
     },
     {
+      "name": "gmail-contacts-crm",
+      "source": "./plugins/gmail-contacts-crm",
+      "description": "Build and refresh a personal contacts spreadsheet from your own Gmail and Google Calendar. Read only, never sends email."
+    },
+    {
       "name": "financial-model-builder",
       "source": "./plugins/financial-model-builder",
       "description": "Build clean Excel financial models (loans, breakeven, cost and scenario models) with zero formula errors."

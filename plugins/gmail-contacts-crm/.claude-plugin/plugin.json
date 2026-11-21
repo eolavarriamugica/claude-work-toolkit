@@ -1,0 +1,16 @@
+{
+  "name": "gmail-contacts-crm",
+  "version": "0.1.0",
+  "description": "Builds and refreshes a personal contacts spreadsheet from your own Gmail and Google Calendar: one row per real person, with reason for contact, status and next step. Read only.",
+  "author": {
+    "name": "claude-work-toolkit contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "contacts",
+    "gmail",
+    "google calendar",
+    "networking"
+  ]
+}
